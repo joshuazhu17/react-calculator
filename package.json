@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/joshuazhu17/react-calculator#readme",
   "dependencies": {
-    "parcel": "^1.12.4"
+    "parcel": "^2.8.2"
   },
   "devDependencies": {
     "typescript": "^3.8.3"
